@@ -1,0 +1,6 @@
+cobra
+escher
+pandas
+numpy
+matplotlib
+jupyter
