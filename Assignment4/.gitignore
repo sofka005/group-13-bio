@@ -1,2 +1,15 @@
 /data/
 /models/
+/img/
+/report/
+__pycache__/
+__MACOSX/
+.ipynb_checkpoints/
+*.log
+test_*
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls

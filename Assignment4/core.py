@@ -13,7 +13,7 @@ from torch.utils.data import Dataset
 from config import (
     CLIP_DURATION, DATA_DIR, N_MELS, SAMPLE_RATE, SANTORO_LABELS_CSV, SANTORO_SOUNDS_DIR, SNIPPET_DURATION,
 )
-from models import WaveformModel, UninspiredModel, InspiredModel
+from models import WaveformModel, UninspiredModel, InspiredModel, AuditoryPathwayModel
 from util import load_waveform, yamnet_filename_map
 
 
@@ -211,4 +211,5 @@ MODEL_CLASSES = {
     "waveform": WaveformModel,
     "uninspired": UninspiredModel,
     "inspired": InspiredModel,
+    "pathway": AuditoryPathwayModel,
 }
