@@ -3,11 +3,11 @@
 Infection simulation in 30 minutes intervals (t denotes time from beginning of simulation in minutes)
 <table>
   <tr>
-    <td><img src="./img/t0.png" width="170"/><br/><sub>t = 0</sub></td>
-    <td><img src="./img/t30.png" width="170"/><br/><sub>t = 30</sub></td>
-    <td><img src="./img/t60.png" width="170"/><br/><sub>t = 60</sub></td>
-    <td><img src="./img/t90.png" width="170"/><br/><sub>t = 90</sub></td>
-    <td><img src="./img/t120.png" width="170"/><br/><sub>t = 120</sub></td>
+    <td><img src="./img/t0.png" width="200"/><br/><sub>t = 0</sub></td>
+    <td><img src="./img/t30.png" width="200"/><br/><sub>t = 30</sub></td>
+    <td><img src="./img/t60.png" width="200"/><br/><sub>t = 60</sub></td>
+    <td><img src="./img/t90.png" width="200"/><br/><sub>t = 90</sub></td>
+    <td><img src="./img/t120.png" width="200"/><br/><sub>t = 120</sub></td>
   </tr>
 </table>
 
